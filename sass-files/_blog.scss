@@ -1,3 +1,6 @@
 h4{
     color: red;
 }
+.box{
+    @include flex-center;
+}
